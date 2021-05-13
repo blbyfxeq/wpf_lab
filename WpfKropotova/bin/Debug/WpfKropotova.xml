@@ -1,0 +1,83 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WpfKropotova
+</name>
+</assembly>
+<members>
+<member name="T:WpfKropotova.My.MyWpfExtension">
+ <summary>
+ Модуль определения свойств, доступных в My Namespace для WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:WpfKropotova.My.MyWpfExtension.Application">
+ <summary>
+ Возвращает объект приложения для запущенного приложения
+ </summary>
+</member>
+<member name="P:WpfKropotova.My.MyWpfExtension.Computer">
+ <summary>
+ Возвращает информацию о главном компьютере.
+ </summary>
+</member>
+<member name="P:WpfKropotova.My.MyWpfExtension.User">
+ <summary>
+ Возвращает информацию для текущего пользователя.  Если вы хотите запустить приложение с текущими 
+ учетными данными пользователя Windows, вызовите My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:WpfKropotova.My.MyWpfExtension.Log">
+ <summary>
+ Возвращает журнал приложения. При помощи файла конфигурации приложения можно настроить прослушиватели.
+ </summary>
+</member>
+<member name="P:WpfKropotova.My.MyWpfExtension.Windows">
+ <summary>
+ Возвращает коллекцию окон, определенных в проекте.
+ </summary>
+</member>
+<member name="T:WpfKropotova.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WpfKropotova.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WpfKropotova.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:WpfKropotova.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:WpfKropotova.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:WpfKropotova.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:WpfKropotova.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:WpfKropotova.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

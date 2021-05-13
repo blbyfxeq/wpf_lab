@@ -1,0 +1,17 @@
+C:\i21\WpfKropotova\WpfKropotova\bin\Debug\WpfKropotova.exe.config
+C:\i21\WpfKropotova\WpfKropotova\bin\Debug\WpfKropotova.exe
+C:\i21\WpfKropotova\WpfKropotova\bin\Debug\WpfKropotova.pdb
+C:\i21\WpfKropotova\WpfKropotova\bin\Debug\WpfKropotova.xml
+C:\i21\WpfKropotova\WpfKropotova\obj\Debug\WpfKropotova.vbprojAssemblyReference.cache
+C:\i21\WpfKropotova\WpfKropotova\obj\Debug\MainWindow.g.vb
+C:\i21\WpfKropotova\WpfKropotova\obj\Debug\Application.g.vb
+C:\i21\WpfKropotova\WpfKropotova\obj\Debug\WpfKropotova_MarkupCompile.cache
+C:\i21\WpfKropotova\WpfKropotova\obj\Debug\WpfKropotova_MarkupCompile.lref
+C:\i21\WpfKropotova\WpfKropotova\obj\Debug\MainWindow.baml
+C:\i21\WpfKropotova\WpfKropotova\obj\Debug\WpfKropotova.g.resources
+C:\i21\WpfKropotova\WpfKropotova\obj\Debug\WpfKropotova.Resources.resources
+C:\i21\WpfKropotova\WpfKropotova\obj\Debug\WpfKropotova.vbproj.GenerateResource.cache
+C:\i21\WpfKropotova\WpfKropotova\obj\Debug\WpfKropotova.vbproj.CoreCompileInputs.cache
+C:\i21\WpfKropotova\WpfKropotova\obj\Debug\WpfKropotova.exe
+C:\i21\WpfKropotova\WpfKropotova\obj\Debug\WpfKropotova.xml
+C:\i21\WpfKropotova\WpfKropotova\obj\Debug\WpfKropotova.pdb
